@@ -180,6 +180,15 @@
         "hungry"
       ],
       "id": "18"
+    },
+    {
+      "name": "Awwsd",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "19"
     }
   ]
 }
