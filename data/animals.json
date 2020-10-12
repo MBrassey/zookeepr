@@ -5,216 +5,90 @@
       "name": "Spindle",
       "species": "bear",
       "diet": "carnivore",
-      "personalityTraits": [
-        "hungry",
-        "zany",
-        "loving"
-      ]
+      "personalityTraits": ["hungry", "zany", "loving"]
     },
     {
       "id": "1",
       "name": "Terry",
       "species": "gorilla",
       "diet": "omnivore",
-      "personalityTraits": [
-        "anxious",
-        "goofy"
-      ]
+      "personalityTraits": ["anxious", "goofy"]
     },
     {
       "id": "2",
       "name": "Erica",
       "species": "gorilla",
       "diet": "omnivore",
-      "personalityTraits": [
-        "quirky",
-        "rash"
-      ]
+      "personalityTraits": ["quirky", "rash"]
     },
     {
       "id": "3",
       "name": "Noel",
       "species": "bear",
       "diet": "carnivore",
-      "personalityTraits": [
-        "impish",
-        "sassy",
-        "brave"
-      ]
+      "personalityTraits": ["impish", "sassy", "brave"]
     },
     {
       "id": "4",
       "name": "Coco",
       "species": "penguin",
       "diet": "herbivore",
-      "personalityTraits": [
-        "loving",
-        "goofy"
-      ]
+      "personalityTraits": ["loving", "goofy"]
     },
     {
       "id": "5",
       "name": "Marcy",
       "species": "ostrich",
       "diet": "herbivore",
-      "personalityTraits": [
-        "hungry",
-        "goofy"
-      ]
+      "personalityTraits": ["hungry", "goofy"]
     },
     {
       "id": "6",
       "name": "Bodhi",
       "species": "Doggo",
       "diet": "herbivore",
-      "personalityTraits": [
-        "zany"
-      ]
+      "personalityTraits": ["zany"]
     },
     {
       "id": "7",
       "name": "Cassie",
       "species": "Doggo",
       "diet": "herbivore",
-      "personalityTraits": [
-        "hungry",
-        "zany",
-        "goofy"
-      ]
+      "personalityTraits": ["hungry", "zany", "goofy"]
     },
     {
       "id": "8",
       "name": "Roxy",
       "species": "Quokka",
       "diet": "herbivore",
-      "personalityTraits": [
-        "loving"
-      ]
+      "personalityTraits": ["loving"]
     },
     {
       "id": "9",
       "name": "Tamara",
       "species": "Tiger",
       "diet": "carnivore",
-      "personalityTraits": [
-        "hungry"
-      ]
+      "personalityTraits": ["hungry"]
     },
     {
       "name": "Sufjan",
       "species": "Koala Bear",
       "diet": "herbivore",
-      "personalityTraits": [
-        "loving"
-      ],
+      "personalityTraits": ["loving"],
       "id": "10"
     },
     {
       "name": "Larry",
       "species": "lemur",
       "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
+      "personalityTraits": ["hungry"],
       "id": "11"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "13"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "14"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "15"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "16"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "17"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "18"
-    },
-    {
-      "name": "Awwsd",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "19"
-    },
-    {
-      "name": "Awwsd",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "20"
-    },
-    {
-      "name": "test",
-      "species": "aa",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "happy"
-      ],
-      "id": "21"
     },
     {
       "name": "Karuma",
       "species": "Ninetails",
       "diet": "omnivore",
-      "personalityTraits": [
-        "loving"
-      ],
+      "personalityTraits": ["loving"],
       "id": "22"
     }
   ]
