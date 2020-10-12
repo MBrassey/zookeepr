@@ -189,6 +189,33 @@
         "hungry"
       ],
       "id": "19"
+    },
+    {
+      "name": "Awwsd",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "20"
+    },
+    {
+      "name": "test",
+      "species": "aa",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "happy"
+      ],
+      "id": "21"
+    },
+    {
+      "name": "Karuma",
+      "species": "Ninetails",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "22"
     }
   ]
 }
