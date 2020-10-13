@@ -25,7 +25,7 @@ Animal & zookeeper json database with front end search. Server and api written w
     npm start
     navigate: http://localhost:3001/
 
-<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://mbrassey.github.io/zookeepr">webapplication</a></p></h6>
+<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://zookeepr-mbrassey.herokuapp.com/">webapplication</a></p></h6>
 
 [<p align="center"><img src="lib/Preview.png">](https://zookeepr-mbrassey.herokuapp.com/)
 
