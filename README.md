@@ -1,6 +1,6 @@
 ## zookeepr
 
-Animal & zookeeper json database with front end search and form. Server and api written with Express.js to handle Get and Post requests on the json data. Application is modularized an scalable using routes and tested with the jest framework.
+Animal & zookeeper json database with front end search. Server and api written with Express.js to handle Get and Post requests on the json data. The app is modularized & scalable using routes and tested with the jest framework.
 
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
@@ -32,6 +32,8 @@ Animal & zookeeper json database with front end search and form. Server and api 
 [<p align="center"><img src="lib/Preview1.png">](https://zookeepr-mbrassey.herokuapp.com/)
 
 [<p align="center"><img src="lib/Preview2.png">](https://zookeepr-mbrassey.herokuapp.com/)
+
+[<p align="center"><img src="lib/Preview3.png">](https://zookeepr-mbrassey.herokuapp.com/)
 
 #### Questions
 
