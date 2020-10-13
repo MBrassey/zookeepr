@@ -2,69 +2,63 @@
   "zookeepers": [
     {
       "id": "0",
-      "name": "Kim",
+      "name": "Gaara",
       "age": 28,
-      "favoriteAnimal": "dolphin"
+      "favoriteAnimal": "tanuki"
     },
     {
       "id": "1",
-      "name": "Raksha",
+      "name": "Yugito Nii",
       "age": 31,
-      "favoriteAnimal": "penguin"
+      "favoriteAnimal": "cat"
     },
     {
       "id": "2",
-      "name": "Isabella",
+      "name": "Yagura",
       "age": 67,
-      "favoriteAnimal": "bear"
+      "favoriteAnimal": "crab"
     },
     {
       "id": "3",
-      "name": "Linda",
+      "name": "Roushi",
       "age": 48,
-      "favoriteAnimal": "otter"
+      "favoriteAnimal": "gorilla"
     },
     {
       "id": "4",
-      "name": "Ryan",
+      "name": "Han",
       "age": 20,
-      "favoriteAnimal": "dog"
+      "favoriteAnimal": "dolphin"
     },
     {
       "id": "5",
-      "name": "Alex",
+      "name": "Utakata",
       "age": 32,
-      "favoriteAnimal": "Sloths"
+      "favoriteAnimal": "slug"
     },
     {
       "id": "6",
-      "name": "Amiko",
+      "name": "Fuu",
       "age": 43,
-      "favoriteAnimal": "Quokkas"
+      "favoriteAnimal": "beetle"
     },
     {
       "id": "7",
-      "name": "Emmy",
+      "name": "Killer Bee",
       "age": 29,
-      "favoriteAnimal": "Duckbilled Platypus"
+      "favoriteAnimal": "octopus"
     },
     {
       "id": "8",
-      "name": "Lernantino",
+      "name": "Naruto Uzumaki",
       "age": 19,
-      "favoriteAnimal": "Business Cat"
+      "favoriteAnimal": "fox"
     },
     {
-      "name": "Les",
+      "id": "9",
+      "name": "Uchiha Madara",
       "age": 64,
-      "favoriteAnimal": "Rabbit",
-      "id": "9"
-    },
-    {
-      "name": "Matt Brassey",
-      "age": 34,
-      "favoriteAnimal": "DragonCat",
-      "id": "10"
+      "favoriteAnimal": "all"
     }
   ]
 }
