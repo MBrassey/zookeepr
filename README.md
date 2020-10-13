@@ -6,10 +6,10 @@ Animal & zookeeper json database with front end search. Server and api written w
 
 #### Issues
 
-- [x] [Create a web server](https://github.com/MBrassey/zookeeprissues/1)
-- [x] [Allow user creation of data](https://github.com/MBrassey/zookeeprissues/2)
-- [x] [Implement a front end ](https://github.com/MBrassey/zookeeprissues/3)
-- [x] [Incorporate a separate dataset](https://github.com/MBrassey/zookeeprissues/4)
+- [x] [Create a web server](https://github.com/MBrassey/zookeepr/1)
+- [x] [Allow user creation of data](https://github.com/MBrassey/zookeepr/2)
+- [x] [Implement a front end ](https://github.com/MBrassey/zookeepr/3)
+- [x] [Incorporate a separate dataset](https://github.com/MBrassey/zookeepr/4)
 
 #### Requirements
 
