@@ -1,7 +1,7 @@
 {
   "name": "zookeepr",
   "version": "1.0.0",
-  "description": "",
+  "description": "Animal & zookeeper json database with front end search. Server and api written with Express.js to handle Get and Post requests on the json data. The app is modularized & scalable using routes and tested with the jest framework.",
   "main": "server.js",
   "scripts": {
     "test": "jest --verbose",
