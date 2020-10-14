@@ -12,8 +12,8 @@
     "url": "git+https://github.com/MBrassey/zookeepr.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Matt Brassey",
+  "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/MBrassey/zookeepr/issues"
   },
